@@ -1,0 +1,5 @@
+{
+  "name": "TechFlow Animator",
+  "description": "Generates architectural animations and system diagrams from technical blog posts or URLs using Gemini 2.5 Flash with Grounding.",
+  "requestFramePermissions": []
+}
