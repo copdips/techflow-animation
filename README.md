@@ -56,6 +56,16 @@ make build
 
 The output will be in the `dist` directory.
 
+## Testing
+
+To run type checks and ensure code integrity:
+
+```bash
+make test
+# or
+npm run test
+```
+
 ## Project Structure
 
 - `index.tsx`: Application entry point.
